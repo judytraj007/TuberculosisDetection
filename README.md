@@ -1,4 +1,4 @@
-# TuberculosisDetection
+# Tuberculosis Detection
 A PyTorch model based on Alexnet that detects if X-Ray images show any manifestations of tuberculosis.
 
 Problem Statement:-TB Detection in Chest Radiograph Using Deep
